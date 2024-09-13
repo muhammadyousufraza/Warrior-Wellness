@@ -1,0 +1,32 @@
+.elementor-1322 .elementor-element.elementor-element-0d50125{--display:flex;--min-height:441px;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--background-transition:0.3s;}.elementor-1322 .elementor-element.elementor-element-0d50125:not(.elementor-motion-effects-element-type-background), .elementor-1322 .elementor-element.elementor-element-0d50125 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://redcraftmedia.net/warrior/wp-content/uploads/2024/08/20221128_103608-2-scaled.jpg");background-position:0px -298px;background-repeat:no-repeat;background-size:cover;}.elementor-1322 .elementor-element.elementor-element-0d50125, .elementor-1322 .elementor-element.elementor-element-0d50125::before{--border-transition:0.3s;}.elementor-1322 .elementor-element.elementor-element-59c6850{text-align:center;}.elementor-1322 .elementor-element.elementor-element-59c6850 .elementor-heading-title{color:#FFFFFF;font-family:"IBMPlexSans", Sans-serif;font-size:57px;font-weight:600;}.elementor-1322 .elementor-element.elementor-element-5c1a6db{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--gap:40px 40px;--background-transition:0.3s;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:54px;--padding-bottom:54px;--padding-left:54px;--padding-right:54px;}.elementor-1322 .elementor-element.elementor-element-5c1a6db.e-con{--align-self:center;}.elementor-1322 .elementor-element.elementor-element-1278a60{--display:flex;--background-transition:0.3s;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-1322 .elementor-element.elementor-element-d695791{text-align:left;}.elementor-1322 .elementor-element.elementor-element-d695791 img{width:100%;}.elementor-1322 .elementor-element.elementor-element-ad3f6d0{--display:flex;--background-transition:0.3s;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-1322 .elementor-element.elementor-element-ad3f6d0.e-con{--order:-99999 /* order start hack */;--flex-grow:0;--flex-shrink:0;}.elementor-1322 .elementor-element.elementor-element-b52d9fb{text-align:left;color:#474747;font-family:"Poppins", Sans-serif;font-size:16px;font-weight:400;}:root{--page-title-display:none;}@media(max-width:1024px){.elementor-1322 .elementor-element.elementor-element-0d50125:not(.elementor-motion-effects-element-type-background), .elementor-1322 .elementor-element.elementor-element-0d50125 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-position:0px 0px;}.elementor-1322 .elementor-element.elementor-element-5c1a6db{--padding-top:40px;--padding-bottom:40px;--padding-left:40px;--padding-right:40px;}.elementor-1322 .elementor-element.elementor-element-1278a60{--min-height:284px;--justify-content:center;}.elementor-1322 .elementor-element.elementor-element-d695791 img{max-width:100%;height:179px;}.elementor-1322 .elementor-element.elementor-element-b52d9fb{font-size:14px;}}@media(max-width:767px){.elementor-1322 .elementor-element.elementor-element-0d50125{--min-height:154px;}.elementor-1322 .elementor-element.elementor-element-0d50125:not(.elementor-motion-effects-element-type-background), .elementor-1322 .elementor-element.elementor-element-0d50125 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://redcraftmedia.net/warrior/wp-content/uploads/2024/04/header.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-1322 .elementor-element.elementor-element-59c6850 .elementor-heading-title{font-size:35px;}.elementor-1322 .elementor-element.elementor-element-b52d9fb{text-align:left;}}@media(min-width:768px){.elementor-1322 .elementor-element.elementor-element-1278a60{--width:70%;}.elementor-1322 .elementor-element.elementor-element-ad3f6d0{--width:61.044%;}}@media(max-width:1024px) and (min-width:768px){.elementor-1322 .elementor-element.elementor-element-1278a60{--width:100%;}}/* Start custom CSS */ul {
+    padding: 20px;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'IBMPlexSans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://redcraftmedia.net/warrior/wp-content/uploads/2024/04/IBMPlexSans-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'IBMPlexSans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://redcraftmedia.net/warrior/wp-content/uploads/2024/04/IBMPlexSans-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'IBMPlexSans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://redcraftmedia.net/warrior/wp-content/uploads/2024/04/IBMPlexSans-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'IBMPlexSans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: ;
+}
+/* End Custom Fonts CSS */

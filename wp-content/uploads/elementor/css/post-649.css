@@ -1,0 +1,29 @@
+.elementor-649 .elementor-element.elementor-element-62e2981{--display:flex;--min-height:60vh;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--background-transition:0.3s;}.elementor-649 .elementor-element.elementor-element-62e2981:not(.elementor-motion-effects-element-type-background), .elementor-649 .elementor-element.elementor-element-62e2981 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://redcraftmedia.net/warrior/wp-content/uploads/2024/08/IMG_4619-1-scaled.jpeg");background-position:0px -463px;background-repeat:no-repeat;background-size:cover;}.elementor-649 .elementor-element.elementor-element-62e2981, .elementor-649 .elementor-element.elementor-element-62e2981::before{--border-transition:0.3s;}.elementor-649 .elementor-element.elementor-element-596aff7{text-align:center;}.elementor-649 .elementor-element.elementor-element-596aff7 .elementor-heading-title{color:#FFFFFF;font-family:"IBMPlexSans", Sans-serif;font-size:63px;font-weight:600;}.elementor-649 .elementor-element.elementor-element-8a89b3b{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--background-transition:0.3s;}.elementor-649 .elementor-element.elementor-element-bbea1f5 .eael-event-calendar-wrapper .fc td{border-color:#CFCFDA;}.elementor-649 .elementor-element.elementor-element-bbea1f5 .eael-event-calendar-wrapper hr.fc-divider{border-color:#CFCFDA;}.elementor-649 .elementor-element.elementor-element-bbea1f5 .eael-event-calendar-wrapper .fc th{border-color:#CFCFDA;}.elementor-649 .elementor-element.elementor-element-bbea1f5 .eael-event-calendar-wrapper .fc-view  td.fc-today{border-left-color:#CFCFDA;}.elementor-649 .elementor-element.elementor-element-bbea1f5 .eael-event-calendar-wrapper .fc-view  table thead:first-child tr:first-child td{border-top-color:#CFCFDA !important;}.elementor-649 .elementor-element.elementor-element-bbea1f5 .eael-event-calendar-wrapper .fc-view.fc-listWeek-view{border-color:#CFCFDA !important;}.elementor-649 .elementor-element.elementor-element-bbea1f5 .eael-event-calendar-wrapper .fc-view.fc-listMonth-view{border-color:#CFCFDA !important;}.elementor-649 .elementor-element.elementor-element-bbea1f5 .fc-col-header-cell{text-align:center;}.elementor-649 .elementor-element.elementor-element-bbea1f5 .fc-daygrid-day-top{display:block;text-align:center;}.elementor-649 .elementor-element.elementor-element-bbea1f5 .fc-day-today .fc-daygrid-day-top a{color:#1111e1;}.elementor-649 .elementor-element.elementor-element-bbea1f5 .eael-event-calendar-wrapper .fc-list .fc-list-table .fc-list-day .fc-list-day-cushion{background-color:#f1edf8;}.elementor-649 .elementor-element.elementor-element-bbea1f5 .eael-event-calendar-wrapper .fc-list-event .fc-list-event-time{color:#000 !important;}.elementor-649 .elementor-element.elementor-element-bbea1f5 .eael-event-calendar-wrapper .fc-list-event .fc-list-event-title a{color:#000 !important;}.elementor-649 .elementor-element.elementor-element-bbea1f5 .eael-event-calendar-wrapper .fc-list-event:nth-child(even){background-color:#ffffff !important;}.elementor-649 .elementor-element.elementor-element-bbea1f5 .eael-event-calendar-wrapper .fc-list-event:nth-child(odd) td{background-color:#ffffff !important;}.elementor-649 .elementor-element.elementor-element-bbea1f5 .eaelec-modal-body{color:#555;}.elementor-649 .elementor-element.elementor-element-bbea1f5 .eaelec-modal-body *{color:#555;}.elementor-649 .elementor-element.elementor-element-bbea1f5{width:100%;max-width:100%;}:root{--page-title-display:none;}@media(max-width:1024px){.elementor-649 .elementor-element.elementor-element-62e2981:not(.elementor-motion-effects-element-type-background), .elementor-649 .elementor-element.elementor-element-62e2981 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-position:0px 0px;}}@media(max-width:767px){.elementor-649 .elementor-element.elementor-element-62e2981{--min-height:35vh;}.elementor-649 .elementor-element.elementor-element-62e2981:not(.elementor-motion-effects-element-type-background), .elementor-649 .elementor-element.elementor-element-62e2981 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-position:0px 0px;}.elementor-649 .elementor-element.elementor-element-596aff7 .elementor-heading-title{font-size:50px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'IBMPlexSans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://redcraftmedia.net/warrior/wp-content/uploads/2024/04/IBMPlexSans-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'IBMPlexSans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://redcraftmedia.net/warrior/wp-content/uploads/2024/04/IBMPlexSans-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'IBMPlexSans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://redcraftmedia.net/warrior/wp-content/uploads/2024/04/IBMPlexSans-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'IBMPlexSans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: ;
+}
+/* End Custom Fonts CSS */
